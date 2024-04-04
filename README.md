@@ -33,7 +33,8 @@
 
 ## ⚙️ GitHub Analytics
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AstuteFern&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=astutefern" alt="Sukhman's GitHub Stats" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astutefern" alt="Most Used Languages" /> -->
 
 
 
