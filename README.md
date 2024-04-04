@@ -32,8 +32,9 @@
 ![Coding](https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif)
 
 ## ⚙️ GitHub Analytics
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AstuteFern&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=astutefern" alt="Sukhman's GitHub Stats" />
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AstuteFern&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)	
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astutefern" alt="Sukhman's GitHub Stats" /> -->
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astutefern" alt="Most Used Languages" /> -->
 
 
