@@ -1,3 +1,51 @@
+# Hi there, I'm Sukhman! 👋
+
+## 🎓 Education
+- **University of California, San Diego**
+  - Mathematics - Computer Science (B.S) | Minor: Cognitive Science, Economics 
+  - GPA: 3.821 | Major GPA: 3.95 | Provost Honors
+
+## 🛠️ Skills
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+<details>
+  <summary>👨‍💻 More Skills</summary>
+  - Certified Ethical Hacking
+  - GitHub Actions CI/CD
+  - Machine Learning
+  - Robotics
+  - Web3 Development
+  - Cryptography
+</details>
+
+## 🔗 Let's Connect
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sukhmanvirk)](https://www.linkedin.com/in/sukhmanvirk)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/sukhmanvirk)](https://github.com/AstuteFern)
+
+<!-- Replace 'link-to-your-gif' with actual link to your GIF -->
+![Coding](https://giphy.com/gifs/Wegow-lofi-wegow-XbJYBCi69nyVOffLIU)
+
+## ⚙️ GitHub Analytics
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=astutefern" alt="Sukhman's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astutefern" alt="Most Used Languages" />
+
+
+
+<!-- Optional: Any additional notes or fun facts -->
+<details>
+  <summary>🌟 A Little More About Me</summary>
+
+With a blend of skills in machine learning, software engineering, and competitive programming, I thrive on creating solutions that push technological boundaries. I enjoy collaborative projects and working with teams. 
+
+</details>
+
+<!--
 ## About Me
 Hello there 👋! I'm Sukhman, a senior majoring in Mathematics - Computer Science from UC San Diego. I additionally am minoring in both Cognitive Science and Economics. With a blend of skills in machine learning, software engineering, and competitive programming, I thrive on creating solutions that push technological boundaries.
 
@@ -16,6 +64,7 @@ Hello there 👋! I'm Sukhman, a senior majoring in Mathematics - Computer Scien
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sukhmanvirk)
 - [GitHub](https://github.com/sukhmanvirk)
+-->
 
 
 <!--
