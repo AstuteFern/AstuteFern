@@ -25,7 +25,7 @@
 </details>
 
 ## 🔗 Let's Connect
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sukhmanvirk)](https://www.linkedin.com/in/sukhmanvirk)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sukhmanvirk)](https://www.linkedin.com/in/sukhman-virk-8b1296198)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/sukhmanvirk)](https://github.com/AstuteFern)
 
 <!-- Replace 'link-to-your-gif' with actual link to your GIF -->
