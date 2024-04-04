@@ -29,7 +29,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/sukhmanvirk)](https://github.com/AstuteFern)
 
 <!-- Replace 'link-to-your-gif' with actual link to your GIF -->
-![Coding](https://giphy.com/gifs/Wegow-lofi-wegow-XbJYBCi69nyVOffLIU)
+![Coding](https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif)
 
 ## ⚙️ GitHub Analytics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astutefern" alt="Sukhman's GitHub Stats" />
