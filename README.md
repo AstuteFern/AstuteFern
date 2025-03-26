@@ -3,7 +3,7 @@
 ## 🎓 Education
 - **University of California, San Diego**
   - Mathematics - Computer Science (B.S) | Minor: Cognitive Science, Economics 
-  - GPA: 3.821 | Major GPA: 3.95 | Provost Honors
+  - GPA: 3.833 | Major GPA: 3.96 | Provost Honors
 
 ## 🛠️ Skills
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
